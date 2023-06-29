@@ -1,5 +1,3 @@
-from IPython.core.interactiveshell import error
-from copy import Error
 import networkx as nx
 import matplotlib.pyplot as pt
 
